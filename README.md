@@ -7,10 +7,13 @@ Functionality:
   - Board
   - Pieces
 - Move Validation
-- Piece capture and check
+- Piece capture
 
   UML: ![Diagram](https://github.com/user-attachments/assets/39809c3a-4120-4a4f-93d2-118ac3cd2984)
 
+
+
+  Screenshots:
 
 ![Starting Position](https://github.com/user-attachments/assets/ef94a6df-1c0a-4d62-a725-3aa2f751a351)
 

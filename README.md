@@ -9,6 +9,8 @@ Functionality:
 - Move Validation
 - Piece capture
 
+- Can be run through executable
+
   UML: ![Diagram](https://github.com/user-attachments/assets/39809c3a-4120-4a4f-93d2-118ac3cd2984)
 
 
